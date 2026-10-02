@@ -11,5 +11,4 @@ spec:
   ports:
     - port: 8761
       targetPort: 8761
-
   type: NodePort
